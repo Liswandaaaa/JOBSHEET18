@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    tools:context=".fragment.ProfilMurid">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="63dp"
+        android:gravity="center"
+        android:text="PROFILE DANUARDI WAHYU P.L"
+        android:textColor="#21533D"
+        android:textSize="25dp"
+        android:textStyle="normal|bold" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="32dp"
+        android:gravity="left|center"
+        android:textSize="13dp"
+        android:text="          NAMA         : Tiara Bintang Liswanda"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="32dp"
+        android:gravity="left|center"
+        android:textSize="13dp"
+        android:text="          LAHIR          : SEMARANG,19-JULI-2006"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="32dp"
+        android:gravity="left|center"
+        android:textSize="13dp"
+        android:text="          ALAMAT     : Gangin Rejo RT01/RW05"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="32dp"
+        android:gravity="left|center"
+        android:textSize="13dp"
+        android:text="           ASAL SEKOLAH : SMKN 1SAYUNG"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="32dp"
+        android:gravity="left|center"
+        android:textSize="13dp"
+        android:text="           KELAS        :XI PPLG1"
+        android:textStyle="bold"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="32dp"
+        android:gravity="left|center"
+        android:textSize="13dp"
+        android:text="           JURUSAN  : PPLG(Pengembangan Perangkat Lunak dan Gim)"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="32dp"
+        android:gravity="left|center"
+        android:textSize="13dp"
+        android:text="           STATUS      :MURID SMKN1SAYUNG"
+        android:textStyle="bold"/>
+
+</LinearLayout>
